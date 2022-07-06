@@ -7,7 +7,7 @@
 #   Character.create(name: "Luke", movie: movies.first)
 
 Greeting.create(greeting:'Hello, Welcome to this Rails React Project')
-Greeting.create(greeting:'Hola, Bienvenido a este projecto de Rails React')
-Greeting.create(greeting:'Olá, Bem-vindo a este projeto Rails React')
-Greeting.create(greeting:'Ciao, benvenuto in questo progetto Rails React')
+Greeting.create(greeting:'Salam, React project ma ap ko khush-amdeed')
+Greeting.create(greeting:'Helo, Selamat datang ke Projek Reaksi Rails ini')
 Greeting.create(greeting:'Hallo, willkommen zu diesem Rails React-Projekt')
+Greeting.create(greeting:'Bonjour, Bienvenue dans ce projet Rails React')
