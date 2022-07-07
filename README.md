@@ -15,7 +15,7 @@ To get a local copy follow these simple example steps.
 1.- Open the terminal window and clone the repository using this command:  
 `git@github.com:awaisanwar544/greetings-back-end.git` 
 
-2.- Change the directory to the hello-rails-back-end directory  
+2.- Change the directory to the greetings-back-end directory  
 `cd greetings-back-end`  
 3.- Install the project's dependencies by running this command:   
 `bundle install`  
